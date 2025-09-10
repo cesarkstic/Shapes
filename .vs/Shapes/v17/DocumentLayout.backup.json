@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cdcas\\source\\repos\\Shapes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|solutionrelative:shapes.tests\\rectangletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes.tests\\squaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|solutionrelative:shapes.tests\\squaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes.tests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42177DCF-29D2-43C0-8022-AF22B1C45792}|Shapes.Tests\\Shapes.Tests.csproj|solutionrelative:shapes.tests\\circletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\shapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\ishapes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|c:\\users\\cdcas\\source\\repos\\shapes\\shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{395704E1-D61B-4B53-AFAD-1CBB0B7FD3AE}|Shapes\\Shapes.csproj|solutionrelative:shapes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RectangleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\RectangleTests.cs",
+              "RelativeDocumentMoniker": "Shapes.Tests\\RectangleTests.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\RectangleTests.cs",
+              "RelativeToolTip": "Shapes.Tests\\RectangleTests.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:55:32.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareTests.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\SquareTests.cs",
+              "RelativeDocumentMoniker": "Shapes.Tests\\SquareTests.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\SquareTests.cs",
+              "RelativeToolTip": "Shapes.Tests\\SquareTests.cs",
+              "ViewState": "AgIAAA8AAACgmZmZmZklwBoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T20:45:06.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Circle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Circle.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Circle.cs",
+              "RelativeToolTip": "Shapes\\Circle.cs",
+              "ViewState": "AgIAAAQAAADAmZmZmZkVwAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T18:51:12.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shapes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Rectangle.cs",
+              "RelativeToolTip": "Shapes\\Rectangle.cs",
+              "ViewState": "AgIAAA4AAACgmZmZmZktwBkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:25:20.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shapes.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Shapes.cs",
+              "RelativeDocumentMoniker": "Shapes\\Shapes.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Shapes.cs",
+              "RelativeToolTip": "Shapes\\Shapes.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:21:37.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IShapes.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\IShapes.cs",
+              "RelativeDocumentMoniker": "Shapes\\IShapes.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\IShapes.cs",
+              "RelativeToolTip": "Shapes\\IShapes.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:19:18.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Program.cs",
+              "RelativeDocumentMoniker": "Shapes\\Program.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Program.cs",
+              "RelativeToolTip": "Shapes\\Program.cs",
+              "ViewState": "AgIAAB0AAADAmZmZmZkdwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:17:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Square.cs",
+              "RelativeDocumentMoniker": "Shapes\\Square.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes\\Square.cs",
+              "RelativeToolTip": "Shapes\\Square.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:26:07.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\CircleTests.cs",
+              "RelativeDocumentMoniker": "Shapes.Tests\\CircleTests.cs",
+              "ToolTip": "C:\\Users\\cdcas\\source\\repos\\Shapes\\Shapes.Tests\\CircleTests.cs",
+              "RelativeToolTip": "Shapes.Tests\\CircleTests.cs",
+              "ViewState": "AgIAAA8AAACAmZmZmZkVwA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T19:17:46.171Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
