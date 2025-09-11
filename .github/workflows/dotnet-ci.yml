@@ -18,7 +18,7 @@ jobs:
       - run: dotnet test --configuration Release --nologo --verbosity minimal
       - run: dotnet test --no-build -c Release --collect:"XPlat Code Coverage"
       - name: Upload code coverage
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: code-coverage
           path: $(System.DefaultWorkingDirectory)/**/coverage.cobertura.xml
