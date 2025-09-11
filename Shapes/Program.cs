@@ -1,6 +1,9 @@
 ﻿// See h// Program.cs
+using System.Diagnostics.CodeAnalysis;
+
 namespace Shapes
 {
+    [ExcludeFromCodeCoverage]
     class Program
     {
         private static readonly List<IShapes> ShapeList = new List<IShapes>();
