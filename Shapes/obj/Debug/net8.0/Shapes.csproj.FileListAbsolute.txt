@@ -12,3 +12,4 @@ C:\Users\cdcas\source\repos\Shapes\Shapes\obj\Debug\net8.0\refint\Shapes.dll
 C:\Users\cdcas\source\repos\Shapes\Shapes\obj\Debug\net8.0\Shapes.pdb
 C:\Users\cdcas\source\repos\Shapes\Shapes\obj\Debug\net8.0\Shapes.genruntimeconfig.cache
 C:\Users\cdcas\source\repos\Shapes\Shapes\obj\Debug\net8.0\ref\Shapes.dll
+C:\Users\cdcas\source\repos\Shapes\Shapes\obj\Debug\net8.0\Shapes.sourcelink.json

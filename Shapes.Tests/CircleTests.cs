@@ -3,7 +3,7 @@ using System;
 using Xunit;
 using Shapes;
 
-namespace Shapes
+namespace Shapes.Tests
 {
     public class CircleTests
     {

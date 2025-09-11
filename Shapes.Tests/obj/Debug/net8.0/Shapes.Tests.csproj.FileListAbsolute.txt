@@ -103,3 +103,4 @@ C:\Users\cdcas\source\repos\Shapes\Shapes.Tests\obj\Debug\net8.0\refint\Shapes.T
 C:\Users\cdcas\source\repos\Shapes\Shapes.Tests\obj\Debug\net8.0\Shapes.Tests.pdb
 C:\Users\cdcas\source\repos\Shapes\Shapes.Tests\obj\Debug\net8.0\Shapes.Tests.genruntimeconfig.cache
 C:\Users\cdcas\source\repos\Shapes\Shapes.Tests\obj\Debug\net8.0\ref\Shapes.Tests.dll
+C:\Users\cdcas\source\repos\Shapes\Shapes.Tests\obj\Debug\net8.0\Shapes.Tests.sourcelink.json
