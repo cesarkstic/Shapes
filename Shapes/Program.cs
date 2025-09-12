@@ -19,7 +19,9 @@ namespace Shapes
                 new Square ("Square 1", "White", 5),
                 new Circle ("Circle 2", "Green", 30),
                 new Rectangle ("Rectangle 2", "Yellow", 40, 30),
-                new Square ("Square 2", "Black", 50)
+                new Square ("Square 2", "Black", 50),
+                new Triangle("Triangle 1", "Cyan", 3, 4, 5),
+                new Triangle("Triangle 2", "Brown", 4, 7, 10)
             });
 
             foreach (var shape in ShapeList)
@@ -39,7 +41,8 @@ namespace Shapes
             {
                 ShapeList.AddRange(new IShapes[]
                 {
-                    new Circle ("Circle 3", "Brown", -3),
+                    //new Circle ("Circle 3", "Brown", -3),
+                    new Triangle("Triangle 3", "Orange", 1, 4, 3)
                     /*
                     new Rectangle ("Rectangle 1", "Cyan", -4, 3),
                     new Square ("Square 1", "Grey", -5),

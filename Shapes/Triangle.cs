@@ -31,12 +31,11 @@ namespace Shapes
                 throw new ArgumentOutOfRangeException(nameof(sideC));
             }
 
-            double[] s = new[] { sideA, sideB, sideC };
-            Array.Sort(s);
-
-            if ((s[0] + s[1]) <= s[2])
+            if ((sideA + sideB <= sideC) ||
+                (sideA + sideC <= sideB) ||
+                (sideB + sideC <= sideA))
             {
-                throw new ArgumentOutOfRangeException(nameof(s));
+                throw new ArgumentOutOfRangeException(nameof(sideA));
             }
 
             SideA = sideA;
@@ -48,7 +47,6 @@ namespace Shapes
             double s = Perimeter() / 2;
             return Math.Sqrt(s * (s - SideA) * (s - SideB) * (s - SideC));
         }
-
 
         public override double Perimeter() => SideA + SideB + SideC;
     }
