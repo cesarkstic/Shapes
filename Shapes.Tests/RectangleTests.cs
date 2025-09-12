@@ -22,7 +22,7 @@ namespace Shapes.Tests
         [Theory]
         [InlineData(-0.01)]
         [InlineData(-3)]
-        public void Rectangle_Throws_On_Negative_Radius(double s)
+        public void Rectangle_Throws_On_Negative_Side(double s)
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => new Rectangle("", "", s, 1));
             Assert.Throws<ArgumentOutOfRangeException>(() => new Rectangle("", "", 1, s));

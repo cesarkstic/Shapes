@@ -22,7 +22,7 @@ namespace Shapes.Tests
         [Theory]
         [InlineData(-0.01)]
         [InlineData(-3)]
-        public void Square_Throws_On_Negative_Radius(double r)
+        public void Square_Throws_On_Negative_Side(double r)
         {
             Assert.Throws<ArgumentOutOfRangeException>(() => new Square("", "", r));
         }
